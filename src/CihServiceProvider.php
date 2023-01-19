@@ -30,5 +30,5 @@ class CihServiceProvider extends ServiceProvider
     }
 }
 
-// Helper functions
+// Helper functions include
 include 'Repositories/helperrepo.php';
